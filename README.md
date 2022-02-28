@@ -41,9 +41,10 @@
 ![cp](https://user-images.githubusercontent.com/88283820/156008790-9eafdc1a-4032-46d2-b727-37500284639f.jpg)
 
 # Acknowledgements
-1. [Dr. Kunal Ghosh, VSD ] (https://in.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836)
-2. The Dr. Kunal Ghosh, VSD
-3. 
+     FOunder VSDIAT [Dr. Kunal Ghosh] (https://in.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836)
+     
+
+
 
 
 
