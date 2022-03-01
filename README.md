@@ -1,4 +1,4 @@
-# Inverter Schematic
+[# Inverter Schematic]
 ![inv_schem](https://user-images.githubusercontent.com/88283820/156008809-e2f2a45a-095c-4748-8f74-e784df71f367.PNG)
 
 # Inverter Symbol
