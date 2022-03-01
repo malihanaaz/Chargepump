@@ -1,4 +1,4 @@
-# Simulation of Charge Pump using 28nm Technology
+# Design and Simulation of 3- Stage Charge Pump using Synopsys Custom Compiler tool at 28nm Technology node
 
 This repository presents the design of Charge pump. It is implemented using Synopsys Custom Compiler tool at 28nm technology node.
 # Table Of Contents
